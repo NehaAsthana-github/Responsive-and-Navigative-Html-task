@@ -1,0 +1,58 @@
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Set a background color for the body */
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+
+
+
+/* Style the main content area */
+main {
+    padding: 20px;
+}
+
+/* Style the arrow div */
+#arrow-div {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.arrow-child1 {
+    background-color: #eee;
+    padding: 20px;
+    text-align: center;
+}
+
+.arrow-child2 {
+    background-color: #eee;
+    padding: 20px;
+    text-align: center;
+}
+
+.arrow-child3 {
+    background-color: #eee;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style the footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    margin-top: 370px;
+}
+
+
+
